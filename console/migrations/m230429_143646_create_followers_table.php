@@ -3,7 +3,7 @@
 use yii\db\Migration;
 
 /**
- * Handles the creation of table `{{%followers}}`.
+ * Handles the creation of table `{{%followers}}`. 
  */
 class m230429_143646_create_followers_table extends Migration
 {
